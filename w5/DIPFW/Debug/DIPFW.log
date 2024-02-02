@@ -1,0 +1,26 @@
+﻿cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  stdafx.cpp
+cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  Moravec.cpp
+c:\users\liebe\documents\dipfw\dipfw\imgdata.h(23): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\liebe\documents\dipfw\dipfw\imgdata.h(46): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\liebe\documents\dipfw\dipfw\moravec.cpp(140): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  MainFrm.cpp
+  InSizeDlg.cpp
+  ImgData.cpp
+c:\users\liebe\documents\dipfw\dipfw\imgdata.h(23): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\liebe\documents\dipfw\dipfw\imgdata.h(46): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+  HOG.cpp
+c:\users\liebe\documents\dipfw\dipfw\imgdata.h(23): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\liebe\documents\dipfw\dipfw\imgdata.h(46): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\liebe\documents\dipfw\dipfw\hog.cpp(73): warning C4101: '_int' :참조되지 않은 지역 변수입니다.
+  DIPFWView.cpp
+  DIPFWDoc.cpp
+c:\users\liebe\documents\dipfw\dipfw\imgdata.h(23): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\liebe\documents\dipfw\dipfw\imgdata.h(46): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\liebe\documents\dipfw\dipfw\dipfwdoc.cpp(380): warning C4244: '=': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DIPFW.cpp
+  ChildFrm.cpp
+  코드를 생성하고 있습니다...
+ChildFrm.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  DIPFW.vcxproj -> C:\Users\liebe\Documents\DIPFW\Debug\DIPFW.exe
